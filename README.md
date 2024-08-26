@@ -17,3 +17,14 @@ information of YTD Sales and generate insights for below scenarios-
 * Power Query
 * Dax Query
 * Data modeling
+## Insights:
+* Sales in 2022 are down compared to 2021, especially in the Office Supplies and Technology
+ categories. The dashboard shows that sales in December are significantly lower than in other
+ months. To increase sales during this time, consider offering more discounts and promotions
+ on products.
+* Profit and profit margin increased in 2022 compared to the previous year, despite a decrease
+ in sales quantity.
+* Sales of standard class shipping are very high (60.5%), while same-day shipping sales are very
+ low (5.2%).
+* Sales in the South region are much lower than in other regions, which have average sales.
+
